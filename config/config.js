@@ -1,5 +1,5 @@
 
-import profile from './profilepic.jpg';
+import profile from './profile.png';
 import { faAppStore, faGithub, faGooglePlay, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
